@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .search-card {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  

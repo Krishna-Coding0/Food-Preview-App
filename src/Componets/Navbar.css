@@ -1,0 +1,7 @@
+.nav-link.active-link {
+    font-weight: bold;
+    color: #FFD700; /* Gold color */
+    border:1px solid gainsboro;
+
+  }
+  
